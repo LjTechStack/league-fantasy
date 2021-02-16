@@ -1,4 +1,4 @@
-package com.lj.league.leaguefantasy;
+package com.lj.league.leagueFantasy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

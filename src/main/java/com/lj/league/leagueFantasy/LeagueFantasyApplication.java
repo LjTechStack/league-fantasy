@@ -1,4 +1,4 @@
-package com.lj.league.leaguefantasy;
+package com.lj.league.leagueFantasy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
